@@ -18,3 +18,15 @@ https://ibb.co/YfgVn56
 单击“显示高级设置”然后 IsMutable = False
 
 创建 NFT -> 批准交易
+
+去 https://libreplex.com
+
+创建铭文 
+
+选择自定义上传rock.txt，其中包含json代码
+
+调整大小
+
+全部完成验证后
+
+https://www.spl20.io/validators/BERAJ8byFxbTMBNGjCS1SahBqm1QPKXNn2CqPvsTdLb8
